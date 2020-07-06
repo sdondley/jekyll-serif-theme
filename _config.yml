@@ -5,8 +5,8 @@ title: 'Jekyll Serif'
 
 collections:
   services:
-    output: true
-    permalink: /services/:path/
+    output: about
+    permalink: /about/:path/
   team:
     output: true
     permalink: /team/:path/
